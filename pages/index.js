@@ -19,7 +19,8 @@ export default function Home() {
 
         <p className="text-slate-600 font-medium tracking-tight text-[1.2rem] space-y-4  ">
           <span className="block">
-            Beautiful girls like you don't fall from the sky. You are special.
+            Beautiful girls like you don&apos;t fall from the sky. You are
+            special.
           </span>
 
           <span className="block">
